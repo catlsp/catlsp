@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="catlsp" width="100%">
+<img src="banner.png" alt="catlsp" width="100%">
 
 <table>
   <tr>
