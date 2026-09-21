@@ -1,4 +1,4 @@
-<img src="banner.gif" alt="catlsp" width="100%">
+<img src="https://cdn.jsdelivr.net/gh/catlsp/catlsp@main/banner.gif" alt="catlsp" width="100%">
 
 <table>
   <tr>
