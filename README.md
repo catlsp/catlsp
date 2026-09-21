@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/catlsp/catlsp@main/banner.gif" alt="catlsp" width="100%">
+<img src="https://cdn.jsdelivr.net/gh/catlsp/catlsp@main/banner.gif?v=2" alt="catlsp" width="100%">
 
 <a href="https://github.com/catlsp"><img src="https://github-readme-stats.shion.dev/api?username=catlsp&amp;show_icons=true&amp;hide_border=true&amp;hide=contribs&amp;bg_color=161b22&amp;title_color=e6edf3&amp;text_color=8b949e&amp;icon_color=e4c88a&amp;ring_color=e4c88a&amp;border_radius=12" alt="Stats"></a>
 <a href="https://github.com/catlsp"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=catlsp&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=161b22&amp;title_color=e6edf3&amp;text_color=8b949e&amp;border_radius=12" alt="Languages"></a>
